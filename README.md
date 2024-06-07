@@ -2,7 +2,7 @@
 
 Integrantes:
 
-Vítor Aranha 
-Everaldo Rodrigues
-Gabriel Angelo
+Vítor Aranha ,
+Everaldo Rodrigues,
+Gabriel Angelo,
 Juan Lira
