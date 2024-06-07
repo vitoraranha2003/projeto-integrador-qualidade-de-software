@@ -120,7 +120,7 @@ Then("exibe a mensagem {string}", (texto) => {
   });
 });
 
-//Cenário: Troca de senha
+//Cenário: Campo de código de 6 dígitos vazio
 When("eu clico em {string}", (texto) => {
   cy.get("a").contains(texto).click();
 });
